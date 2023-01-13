@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.fb_log_page{}
+.headerpart{
+    background: #3b5998;
+}
+.header{display: flex;}
+.logo{
+    width: 65%;
+}
+.logo h1 {
+    color: #fff;
+    font-size: 62px;
+    margin: 9px 95px 36px;
+    padding-top: 8px;
+    font-family: 'Righteous', cursive;
+}
+.log_in{
+    display: inline-flex;
+}
+.logleft{
+    margin-right: 12px;
+}
+.logleft h1{
+    margin: 30px 0px 9px;
+    color: #fff;
+    font-weight: 100;
+}
+.logleft input{}
+.logright{}
+.logright h1{
+    margin: 30px 0px 9px;
+    color: #fff;
+    font-weight: 100;
+}
+.logright input{}
+.logright a{
+    margin-top: 5px;
+    display: flex;
+    text-decoration: none;
+    color: #73a0ff;
+}
+.btn{
+    margin-top: 61px;
+    margin-left: 15px;
+}
+.btn button{
+    background: #224389;
+    border: none;
+    padding: 3px 7px 3px;
+    color: #fff;
+    border-radius: 2px;
+}
+
+.main_part {
+    display: flex;
+}
+.banner {
+    width: 145%;
+}
+.banner h1{
+    width: 490px;
+    margin-left: 94px;
+}
+.banner img{
+    width: 77%;
+    margin-left: 55px;
+}
+
+.sign_up_page{}
+.sign_up_page h1{
+    font-size: 48px;
+    margin: 20px 0 20px;
+}
+.sign_up_page h4{
+    margin: 20px 0 20px;
+}
+.logform_one{
+    width: 460px;
+}
+.logform_one input{
+    width: 45%;
+    margin-right: 5px;
+    padding: 6px;
+}
+.logform_two{
+    width: 450px;
+}
+.logform_two input{
+    width: 98%;
+    padding: 5px;
+    margin-top: 12px;
+}
+.birth{}
+.birth p{
+    color: #4d45cf;
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+.birth select{
+    padding: 2px 11px 2px;
+}
+.gender{}
+.gender p .birth{}
+.radio {
+    font-size: 18px;
+}
+.radio input{}
+.para{}
+.para p {
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.para button {
+    background: #2d812d;
+    border: none;
+    padding: 6px 50px 6px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #fff;
+    margin-bottom: 10px;
+}
